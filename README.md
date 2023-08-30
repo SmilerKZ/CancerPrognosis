@@ -1,4 +1,4 @@
-# PetProjects
+# CancerPrognosis
 
 The purpose of the project is to identify the prognosis for a future patient
 if the patient has cancer. For that purpose classifiers (LDA, DLDA, QDA, G13, SEDC,
